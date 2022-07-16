@@ -1,6 +1,7 @@
 ### Hello 👋
-🌱 I’m currently doing some stuff.
-
+🌱 I’m currently doing NOTHING!
+🥱 Getting bored again!
+💀 Lazy ASF!
 <img src="https://github-readme-stats.vercel.app/api?username=jerson2000&theme=codeSTACKr&show_icons=true&hide=prs,issues,contribs"/>
 
 
