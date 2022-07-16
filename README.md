@@ -1,9 +1,10 @@
 ### Hello 👋
-🌱 I’m currently doing NOTHING!
-🥱 Getting bored again!
-💀 Lazy ASF!
+🌱 I’m currently doing NOTHING! <br>
+🥱 Getting bored again! <br>
+💀 Lazy ASF!<br>
 <img src="https://github-readme-stats.vercel.app/api?username=jerson2000&theme=codeSTACKr&show_icons=true&hide=prs,issues,contribs"/>
-
+<br>
+<br>
 
 <!--
 **Jerson2000/jerson2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
