@@ -99,44 +99,44 @@
       ]
     },
     {
-      "roomId": "SA 403",
-      "room": "SA 403",
+      "roomId": "MH 403",
+      "room": "MH 403",
       "roomNo": 403,
-      "building": "Sta. Ana Hall",
+      "building": "Mabutas Hall",
       "floor": "4th",
       "previews": [
          {
           "description": "Door",
-          "img":"https://raw.githubusercontent.com/Jerson2000/jerson2000/portal_assets/images/SA403_door.jpg"
+          "img":"https://raw.githubusercontent.com/Jerson2000/jerson2000/portal_assets/images/MH403_door.jpg"
         },
          {
           "description": "Front",
-          "img":"https://raw.githubusercontent.com/Jerson2000/jerson2000/portal_assets/images/SA403_front.jpg"
+          "img":"https://raw.githubusercontent.com/Jerson2000/jerson2000/portal_assets/images/MH403_front.jpg"
         },
          {
           "description": "Back",
-          "img":"https://raw.githubusercontent.com/Jerson2000/jerson2000/portal_assets/images/SA403_back.jpg"
+          "img":"https://raw.githubusercontent.com/Jerson2000/jerson2000/portal_assets/images/MH403_back.jpg"
         }
       ]
     },
     {
-      "roomId": "SA 404",
-      "room": "SA 404",
+      "roomId": "MH 404",
+      "room": "MH 404",
       "roomNo": 404,
-      "building": "Sta. Ana Hall",
+      "building": "Mabutas Hall",
       "floor": "4th",
       "previews": [
          {
           "description": "Door",
-          "img":"https://raw.githubusercontent.com/Jerson2000/jerson2000/portal_assets/images/SA404_door.jpg"
+          "img":"https://raw.githubusercontent.com/Jerson2000/jerson2000/portal_assets/images/MH404_door.jpg"
         },
          {
           "description": "Front",
-          "img":"https://raw.githubusercontent.com/Jerson2000/jerson2000/portal_assets/images/SA404_front.jpg"
+          "img":"https://raw.githubusercontent.com/Jerson2000/jerson2000/portal_assets/images/MH404_front.jpg"
         },
          {
           "description": "Back",
-          "img":"https://raw.githubusercontent.com/Jerson2000/jerson2000/portal_assets/images/SA404_back.jpg"
+          "img":"https://raw.githubusercontent.com/Jerson2000/jerson2000/portal_assets/images/MH404_back.jpg"
         }
       ]
     },
